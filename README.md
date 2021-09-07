@@ -2,7 +2,7 @@
 
 - 🎓 Pre-Final UG CSE @ [IIT Mandi](https://www.iitmandi.ac.in/)
 - 🔭 My interests: Application Development, Open Source, Systems & Scalability
-- 🌱 My most recent project is [Aur Sunao](https://github.com/wCoder007/aurSunao)
+- 🌱 Check out my recent project [Aur Sunao](https://github.com/wCoder007/aurSunao)
 - 📫 Connect with me: [Mail](mailto:harnaman.hk@gmail.com), [LinkedIn](https://www.linkedin.com/in/harnaman-kaur/)
 - 👯 Feel free to reach out for interesting collaborations!
 
