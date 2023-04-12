@@ -1,6 +1,6 @@
 ### Hi there, I'm Harnaman 👋
 
-- 🎓 Pre-Final UG CSE @ [IIT Mandi](https://www.iitmandi.ac.in/)
+- 🎓 Final UG CSE @ [IIT Mandi](https://www.iitmandi.ac.in/)
 - 🔭 My interests: Application Development, Open Source, Systems & Scalability
 - 🌱 Check out my recent projects [Aur Sunao](https://github.com/wCoder007/aurSunao), [AWS Ec2 Cluster Manager](https://github.com/Signior-X/scalable_systems_project)
 - 📫 Connect with me: [Mail](mailto:harnaman.hk@gmail.com), [LinkedIn](https://www.linkedin.com/in/harnaman-kaur/)
